@@ -1,5 +1,5 @@
 # What is this?
-This is package to create tags html
+This is package to create tags html easly
 
 # Installation
 
@@ -7,3 +7,13 @@ This is package to create tags html
 
 
 
+Then ....
+...
+... 
+```
+import {tags} from 'tags'
+
+const parent = document.querySelector('body)
+tags('div', parent, 'Hello world')
+
+```
