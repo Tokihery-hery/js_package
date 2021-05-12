@@ -1,7 +1,7 @@
 {
   "name": "tktags",
   "version": "1.0.0",
-  "description": "This is mypackage js for html to create easely html tags",
+  "description": "This is mypackage js to create easely html tags",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@tk_pack"
