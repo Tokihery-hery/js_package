@@ -1,0 +1,14 @@
+{
+  "name": "mypackage_js",
+  "version": "1.0.0",
+  "description": "this is mypackage js",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@tk_pack"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tokihery",
+  "license": "ISC"
+}
