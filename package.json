@@ -1,7 +1,7 @@
 {
-  "name": "mypackage_js",
+  "name": "mitags",
   "version": "1.0.0",
-  "description": "this is mypackage js",
+  "description": "This is mypackage js for html to create easely html tags",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@tk_pack"
@@ -10,5 +10,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tokihery",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokihery-hery/js_package.git"
+  },
+  "keywords": [
+    "create",
+    "tags",
+    "html"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tokihery-hery/js_package/issues"
+  },
+  "homepage": "https://github.com/Tokihery-hery/js_package#readme"
 }
